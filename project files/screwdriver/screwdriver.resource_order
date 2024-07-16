@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"r0","order":1,"path":"rooms/r0/r0.yy",},
+    {"name":"oGui","order":1,"path":"objects/oGui/oGui.yy",},
+    {"name":"oBullet","order":2,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"sRode","order":2,"path":"sprites/sRode/sRode.yy",},
+    {"name":"sBullet","order":3,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"shStripes","order":1,"path":"shaders/shStripes/shStripes.yy",},
+    {"name":"shBulgeStripes","order":2,"path":"shaders/shBulgeStripes/shBulgeStripes.yy",},
+    {"name":"shColor","order":3,"path":"shaders/shColor/shColor.yy",},
+    {"name":"oRod","order":1,"path":"objects/oRod/oRod.yy",},
+    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"r1","order":2,"path":"rooms/r1/r1.yy",},
+    {"name":"sBullet3","order":5,"path":"sprites/sBullet3/sBullet3.yy",},
+    {"name":"Sprite1","order":15,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"sBullet2","order":4,"path":"sprites/sBullet2/sBullet2.yy",},
+  ],
+}
